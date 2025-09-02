@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fullcircleconsulting-agency.com/sitemap.xml
